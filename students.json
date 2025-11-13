@@ -3,7 +3,7 @@
         "name":"Pavel",
         "last_name":"Barkov",
         "dob":1089230400,
-        "image_url":"",
+        "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Barkov.jpg",
         "education":
         {
             "university":"VSU",
