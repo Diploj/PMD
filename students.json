@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Pavel",
+        "last_name":"Barkov",
+        "dob":1089230400,
+        "image_url":"",
+        "education":
+        {
+            "university":"VSU",
+            "department":"AMM",
+            "group":"9"
+        }
+    }
+]
