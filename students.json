@@ -10,5 +10,18 @@
             "department":"AMM",
             "group":"9"
         }
+    },
+    {
+        "name": "Viktoria",
+        "last_name": "Shipilova",
+        "dob": 1102291200,
+        "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Shipilova.jpg",
+        "education": 
+        {
+            "university": "VSU",
+            "department": "AMM",
+            "group": "9"
+        },
+        "bio": "I'm a fourth-year student at VSU, studying Applied Mathematics, Informatics and Mechanics. I live in Voronezh. At university, I focus on data analysis and applied problem solving."
     }
 ]
