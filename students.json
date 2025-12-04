@@ -23,5 +23,30 @@
             "group": "9"
         },
         "bio": "I'm a fourth-year student at VSU, studying Applied Mathematics, Informatics and Mechanics. I live in Voronezh. At university, I focus on data analysis and applied problem solving."
+    },
+    {
+        "name":"Zendaya",
+        "last_name":"Coleman",
+        "dob": 841449600,
+        "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Coleman.jpg",
+        "education":
+        {
+            "university":"VSU",
+            "department":"AMM",
+            "group":"91"
+        }
+    },
+    {
+        "name": "Aidan",
+        "last_name": "Gallagher",
+        "dob": 1063843200,
+        "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Gallagher.jpg",
+        "education": 
+        {
+            "university": "VSU",
+            "department": "AMM",
+            "group": "9"
+        },
+        "bio": "I used to live in America. Now I've moved to Voronezh and want to enroll in the Applied Mathematics and Mechanics program at Voronezh State University."
     }
 ]
