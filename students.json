@@ -36,6 +36,20 @@
         },
         "bio":"T-Bank Java/Kotlin junior developer. In my free time, I like sleeping, playing games, and watching cartoons."
     },
+
+    {
+    "name": "Ivan",
+    "last_name": "Simonov",
+    "dob": 1083384000,
+    "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Simonov.jpg",
+    "education": {
+        "university": "VSU",
+        "department": "AMM",
+        "group": "91"
+    },
+    "bio": "Love playing volleyball and code on Java"
+    },
+    
     {
         "name":"Zendaya",
         "last_name":"Coleman",
