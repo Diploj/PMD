@@ -41,7 +41,7 @@
     "name": "Ivan",
     "last_name": "Simonov",
     "dob": 1083384000,
-    "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Simonov.jpg",
+    "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Simonov.png",
     "education": {
         "university": "VSU",
         "department": "AMM",
