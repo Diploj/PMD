@@ -25,15 +25,16 @@
         "bio": "I'm a fourth-year student at VSU, studying Applied Mathematics, Informatics and Mechanics. I live in Voronezh. At university, I focus on data analysis and applied problem solving."
     },
     {
-      "name": "Vera",
-      "last_name": "Em",
-      "dob": 1100725200,
-      "education": {
-        "university": "VSU",
-        "department": "AMM",
-        "group": "91 group"
-      },
-      "bio":"T-Bank Java/Kotlin junior developer. In my free time, I like sleeping, playing games, and watching cartoons."
+        "name": "Vera",
+        "last_name": "Em",
+        "dob": 1100725200,
+        "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Em.png",
+        "education": {
+            "university": "VSU",
+            "department": "AMM",
+            "group": "91"
+        },
+        "bio":"T-Bank Java/Kotlin junior developer. In my free time, I like sleeping, playing games, and watching cartoons."
     },
     {
         "name":"Zendaya",
