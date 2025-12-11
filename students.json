@@ -74,5 +74,17 @@
             "group": "9"
         },
         "bio": "I used to live in America. Now I've moved to Voronezh and want to enroll in the Applied Mathematics and Mechanics program at Voronezh State University."
+    },
+    {
+        "name": "Alexander",
+        "last_name": "Gonnykh",
+        "dob": 1110067200,
+        "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Gonnykh.jpg",
+        "education": {
+            "university": "VSU",
+            "department": "AMM",
+            "group": "91"
+        },
+        "bio":"I am a Java developer. Loves programming."
     }
 ]
