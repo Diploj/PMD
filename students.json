@@ -13,6 +13,18 @@
         "bio": "B††"
     },
     {
+      "name": "Aleksei",
+      "last_name": "Belozerov",
+      "dob": 1089192000,
+      "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Belozerov.jpeg",
+      "education": {
+        "university": "VSU",
+        "department": "AMM",
+        "group": "91"
+      },
+      "bio": "I am a Java/Kotlin developer. I work at T-Bank as a junior engineer. Loves programming, refactoring legacy projects, experimenting with new tools and frameworks"
+    },
+    {
         "name": "Viktoria",
         "last_name": "Shipilova",
         "dob": 1102291200,
