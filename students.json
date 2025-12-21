@@ -99,5 +99,17 @@
             "group": "91"
         },
         "bio":"I am a Java developer. Loves programming."
+    },
+    {
+        "name": "Dmitriy",
+        "last_name": "Dolzhenkov",
+        "dob": 	1118993050,
+        "image_url":"https://raw.githubusercontent.com/Diploj/PMD/refs/heads/main/images/Dolzhenkov.jpg",
+        "education": {
+            "university": "VSU",
+            "department": "AMM",
+            "group": "91"
+        },
+        "bio":"- Anton, do you think I’m a bad mother? - My name is Paul."
     }
 ]
